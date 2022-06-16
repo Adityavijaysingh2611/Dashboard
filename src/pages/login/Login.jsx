@@ -38,7 +38,7 @@ function LoginUi() {
            
 
            
-            <p className="link">
+           <p className="link">
               <a href="#">Forgot password ?</a> Or<a href="#">Sign Up</a>
 
 
