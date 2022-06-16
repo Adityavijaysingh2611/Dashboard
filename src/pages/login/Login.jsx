@@ -3,7 +3,6 @@ import './LoginUi.css';
 import profile from "./image/a.png";
 import email from "./image/email.jpg";
 import pass from "./image/pass.png";
-import { useNavigate } from 'react-router-dom';
 import React from 'react';
 
 
